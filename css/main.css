@@ -234,7 +234,6 @@ header .main-menu .item__name {
   padding: 10px 20px 34px;
   font-family: Arial, sans-serif;
   font-size: 13px;
-  display: block;
 }
 header .main-menu .item:hover .item__name {
   /* 메뉴 호버 시 스타일 */
